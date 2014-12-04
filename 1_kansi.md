@@ -3,8 +3,8 @@
 
 Listaa tänne
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
+* All-Seeing Eye
+* Poikabändi
+* Ilkka Peltola, Lari Hellman, Jaakko Eränen
+* 4.12.2014
+* v.1.0
