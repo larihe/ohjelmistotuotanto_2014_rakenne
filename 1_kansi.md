@@ -1,7 +1,6 @@
 
 ## Projektin kansilehti 
 
-Listaa tänne
 
 * Sovelluksen nimi: iLobby
 * Ryhmän nimi: Poikabändi
