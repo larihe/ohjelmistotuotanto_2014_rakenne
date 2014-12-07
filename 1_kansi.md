@@ -3,8 +3,8 @@
 
 Listaa tänne
 
-* All-Seeing Eye
-* Poikabändi
-* Ilkka Peltola, Lari Hellman, Jaakko Eränen
-* 4.12.2014
-* v.1.0
+* Sovelluksen nimi: iLobby
+* Ryhmän nimi: Poikabändi
+* Ryhmän jäsenten nimet: Ilkka Peltola, Lari Hellman, Jaakko Eränen
+* Päiväys: 4.12.2014
+* Versio: 1.0
