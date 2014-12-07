@@ -7,7 +7,7 @@
 ### Perusnäkymä
  - Perusnäkymässä kirjoita tekstikenttään tilannimi tai käytä omaa sijaintia
  - 
- ![iLobbyBasic](http://users.metropolia.fi/~ilkkapel/Ojl/inlobby.png)
+ ![iLobbyBasic](http://users.metropolia.fi/~ilkkapel/Ojl/InLobby.png)
 
 * listaa käyttöliittymän näkymät
 * niiden keskinäiset suhteet
